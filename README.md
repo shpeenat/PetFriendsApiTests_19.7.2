@@ -1,1 +1,1 @@
-# PetFriendsApiTests_19.7.2
+Негативные тест-кейсы для REST API интерфейса
